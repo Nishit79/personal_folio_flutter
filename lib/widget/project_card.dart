@@ -60,7 +60,7 @@ class ProjectCardState extends State<ProjectCard> {
         margin: Space.h,
         padding: Space.all(),
         width: AppDimensions.normalize(150),
-        height: AppDimensions.normalize(90),
+        height: AppDimensions.normalize(100),
         decoration: BoxDecoration(
           color: appProvider.isDark ? Colors.grey[900] : Colors.white,
           borderRadius: BorderRadius.circular(10),

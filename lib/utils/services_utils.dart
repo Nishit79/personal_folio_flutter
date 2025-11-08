@@ -9,7 +9,7 @@ class ServicesUtils {
 
   static const List<String> servicesTitles = [
     "Mobile App Development",
-    "Web Development",
+    "Flutter Web Development",
     "Open Source - GitHub"
   ];
 
